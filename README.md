@@ -1,0 +1,1 @@
+Junior Web Developer with knowledge of Ruby on Rails, JavaScript, React, PostgreSQL, SQL, NodeJS , Express.js, Knex.js, Bootstrap, and a decade-long successful career in luxury hospitality management 
